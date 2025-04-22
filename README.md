@@ -86,10 +86,10 @@ Locate potential markets for growth that are comparable to these.
 Since they account for 55% of sales, concentrate your marketing efforts on the 31–40 and 41–50 age groups.
 Offer specialized insurance coverage to the expanding number of customers aged 65 and beyond (₹193.77M).
 
-4.Handle Seasonality in Customer Growth: 
+4. Handle Seasonality in Customer Growth: 
 Sales peaked in March and then declined in subsequent months. Put in place incentives for policy renewal or seasonal promotions.
 
-5.Accelerate the Offline-to-Online Transition: 
+5. Accelerate the Offline-to-Online Transition: 
 Most clients favor offline representatives. Introduce hybrid models where transactions take place online for 
 convenience but offline agents help with onboarding.
 
