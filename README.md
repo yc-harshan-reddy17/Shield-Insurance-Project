@@ -29,26 +29,26 @@ My task was to assist Shield Insurance in making data-driven decisions by analyz
 
   
 Shiled Insurance Data Model
-![image]()
+![image](https://github.com/yc-harshan-reddy17/Shield-Insurance-Project/blob/main/images/Data%20model.png)
 
 ## Dashboard Overview - 
 
 ### **Home Page -** When a user logs in for the first time, they will land on this page. From here, they can navigate to different pages.
 
-![image]()
+![image](https://github.com/yc-harshan-reddy17/Shield-Insurance-Project/blob/main/images/Home%20page.png)
 
-### **General Analysis -** Provide an overview of essential insurance metrics, including monthly revenue and customer trends. Also age group and city segmentation.
+### **General Overview -** Provide an overview of essential insurance metrics, including monthly revenue and customer trends. Also age group and city segmentation.
 
-![image]()
+![image](https://github.com/yc-harshan-reddy17/Shield-Insurance-Project/blob/main/images/General%20Overview.png)
 
 
 ### **Sales Mode Analysis -** Showcase sales performance metrics across different modes, including a revenue trend chart highlighting the sales channel that generated the highest revenue percentage.
 
-![image]()
+![image](https://github.com/yc-harshan-reddy17/Shield-Insurance-Project/blob/main/images/Sales%20mode%20analysis.png)
 
 ### **Age Group Analysis -** Demonstrate company revenue and customer performance by age group, including metrics for estimated settlement amounts, and policy preferences.
 
-![image]()
+![image](https://github.com/yc-harshan-reddy17/Shield-Insurance-Project/blob/main/images/Age%20Group%20analysis.png)
 
 ## Key Insights
 
