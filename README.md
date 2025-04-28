@@ -4,7 +4,8 @@ To develop a dashboard for the client which is for Insurance domain and generate
 
 This project is a part of the virtual Internship at AtliQ Technologies.
 
-**Dashboard Link -** https://app.powerbi.com/view?r=eyJrIjoiMjkxMGYwOTYtZjMzNC00YTA3LWJjMTAtMmE3MjExYTJmZDJhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+**Dashboard Link -** https://app.powerbi.com/view?r=eyJrIjoiOWNkMDA1N2YtYzgxMC00Zjc0LWEzMGEtMzZjYWM4YWM2NjNkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 **Presentation Link -** 
 
 ## Project Overview-
